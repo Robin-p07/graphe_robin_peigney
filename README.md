@@ -1,6 +1,6 @@
 # graphe_robin_peigney
 # 👑 Arbre Généalogique de la Famille Royale Britannique
-`![Arbre de la famille royale](famille_royale.png)`
+![Arbre de la famille royale](famille_royale.png)
 
 Ce projet est un script Python qui génère une représentation visuelle de l'arbre généalogique de la famille royale britannique récente. Il utilise la théorie des graphes pour modéliser les liens de parenté, les mariages et les séparations.
 
